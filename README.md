@@ -1,3 +1,8 @@
+[![npm][npm]][npm-url]
+[![node][node]][node-url]
+[![deps][deps]][deps-url]
+[![downloads][downloads]][downloads-url]
+
 <div align="center">
   <a href="https://github.com/webpack/webpack">
     <img width="200" height="200" src="https://webpack.js.org/assets/icon-square-big.svg">
@@ -33,3 +38,15 @@ It's recommended to use this library in conjunction with
 Together, it's possible to create a minimal package.json containing only
 dependencies that webpack normally can't handle, e.g. packages that compile
 native addons, regardless of where they appear in your dependency tree.
+
+[npm]: https://img.shields.io/npm/v/webpack-pnp-unplugged-externals.svg
+[npm-url]: https://npmjs.com/package/webpack-pnp-unplugged-externals
+
+[node]: https://img.shields.io/node/v/webpack-pnp-unplugged-externals.svg
+[node-url]: https://nodejs.org
+
+[deps]: https://david-dm.org/kherock/webpack-pnp-unplugged-externals.svg
+[deps-url]: https://david-dm.org/kherock/webpack-pnp-unplugged-externals
+
+[downloads]: https://img.shields.io/npm/dt/webpack-pnp-unplugged-externals.svg
+[downloads-url]: https://npmjs.com/package/webpack-pnp-unplugged-externals
