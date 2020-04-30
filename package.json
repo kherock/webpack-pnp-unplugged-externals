@@ -1,0 +1,32 @@
+{
+  "name": "webpack-pnp-unplugged-externals",
+  "version": "1.0.0",
+  "description": "Exclude unplugged PnP packages from the webpack bundle",
+  "main": "index.js",
+  "repository": "https://github.com/kherock/webpack-pnp-unplugged-externals",
+  "author": "Kyle Herock @kherock",
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10.13.0"
+  },
+  "files": [
+    "package.json"
+  ],
+  "peerDependencies": {
+    "webpack": "^4.0.0 || ^5.0.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.0.5",
+    "webpack": "^4.43.0"
+  },
+  "keywords": [
+    "webpack",
+    "yarn",
+    "plugnplay",
+    "pnp",
+    "node_modules",
+    "node",
+    "bundle",
+    "externals"
+  ]
+}
