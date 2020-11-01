@@ -22,7 +22,7 @@ yarn add --dev webpack-pnp-unplugged-externals
 **webpack.config.js**
 
 ```js
-const pnpUnpluggedExternals = require('webapck-pnp-unplugged-externals');
+const pnpUnpluggedExternals = require('webpack-pnp-unplugged-externals');
 
 module.exports = {
   // ...
